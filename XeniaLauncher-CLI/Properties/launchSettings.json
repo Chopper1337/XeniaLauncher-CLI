@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XeniaLauncher-CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "update master"
+    }
+  }
+}
